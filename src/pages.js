@@ -1,1 +1,0 @@
-export {default as StoreHomePage} from './pages/StoreHomePage'
